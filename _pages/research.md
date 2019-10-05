@@ -11,9 +11,11 @@ Working Papers
 =====
 
 Long-term Contracts and Efficiency in the Liquefied Natural Gas Industry
+=
 Job Market Paper, in progress 
 
 [China's Industrial Policy: An Empirical Evaluation](https://www.nber.org/papers/w26075 "China's Industrial Policy: An Empirical Evaluation") 
+=
 with Panle Jia Barwick and Myrto Kalouptsidi
 *NBER Working Paper No. 26075*
 
@@ -22,6 +24,7 @@ Industrial policies, broadly defined as policies that shape a country’s or reg
 
 
 [The Morbidity Cost of Air Pollution: Evidence from Consumer Spending in China](https://www.nber.org/papers/w24688 "The Morbidity Cost of Air Pollution: Evidence from Consumer Spending in China")
+=
 with Panle Jia Barwick, Shanjun Li and Deyu Rao
 *NBER Working Paper No. 24688*
 
@@ -32,4 +35,5 @@ Works in Progress
 =====
 
 Traffic Congestion and Consumer Spending
+=
 with Deyu Rao
