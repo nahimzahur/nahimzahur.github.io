@@ -8,7 +8,7 @@ author_profile: true
 
 
 Working Papers
-======
+=====
 
 Long-term Contracts and Efficiency in the Liquefied Natural Gas Industry
 Job Market Paper, in progress 
@@ -29,7 +29,7 @@ Developing and fast-growing economies have some of the worse air pollution in th
 
 
 Works in Progress
-======
+=====
 
 Traffic Congestion and Consumer Spending
 with Deyu Rao
