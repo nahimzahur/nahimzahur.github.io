@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
 Long-term Contracts and Efficiency in the Liquefied Natural Gas Industry (Job Market Paper, in progress) 
 
 China's Industrial Policy: An Empirical Evaluation (with Panle Jia Barwick and Myrto Kalouptsidi) 
