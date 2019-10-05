@@ -14,6 +14,7 @@ Job Market Paper, in progress
 
 ### [China's Industrial Policy: An Empirical Evaluation](https://www.nber.org/papers/w26075 "China's Industrial Policy: An Empirical Evaluation") 
 with Panle Jia Barwick and Myrto Kalouptsidi
+
 *NBER Working Paper No. 26075*
 
 
@@ -22,6 +23,7 @@ Industrial policies, broadly defined as policies that shape a country’s or reg
 
 ### [The Morbidity Cost of Air Pollution: Evidence from Consumer Spending in China](https://www.nber.org/papers/w24688 "The Morbidity Cost of Air Pollution: Evidence from Consumer Spending in China")
 with Panle Jia Barwick, Shanjun Li and Deyu Rao
+
 *NBER Working Paper No. 24688*
 
 Developing and fast-growing economies have some of the worse air pollution in the world, but there is a lack of systematic evidence on the health especially morbidity impact of air pollution in these countries. Based on the universe of credit and debit card transactions in China from 2013 to 2015, this paper provides to our knowledge the first analysis of the morbidity cost of PM2.5 for the entire population of a developing country. To address potential endogeneity in pollution exposure, we construct an instrumental variable by modelling the spatial spillovers of PM2.5 due to long-range transport. We propose a flexible distributed-lag model that incorporates the IV approach to capture the dynamic response to past pollution exposure. Our analysis shows that PM2.5 has a significant impact on healthcare spending in both the short and medium terms that survives an array of robustness checks. The annual reduction in national healthcare spending from complying with the World Health Organization’s annual standard of 10 mg/m3 would amount to $42 billion, or nearly 7% of China’s total healthcare spending in 2015. In contrast to the common perception that the morbidity impact is modest relative to the mortality impact, our estimated morbidity cost of air pollution is about two-thirds of the mortality cost from the recent literature.
