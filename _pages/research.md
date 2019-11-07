@@ -47,13 +47,21 @@ The cost of congestion is a key input in the design of transportation policy. Ex
 
 ## Other Research
 
-#### “The Economics of Solar PV in Singapore” (with Tilak K. Doshi, Neil S. D’Souza, Nguyen Phuong Linh, Teo Han Guan). GSTF Journal of Engineering Technology, 2(1), 2013.
+#### "Climate Change and Buildings: an Asia-Pacific Primer."
+with Abhishek Rohatgi, Tian Sheng Allan Loi.  In van Calster, Geert, Vandenberghe, Wim and Reins, Leonie (eds.): Research Handbook on Climate Change Mitigation Law. Edward Elgar 2015, pp. 212-241.
 
-#### “Drivers of Regulatory Reform in Energy Efficiency and Renewable Energy.” (with Tilak K. Doshi, Carlos Kuriyama) APEC Policy Brief (Issue 7, July 2013).
+#### “The Economics of Solar PV in Singapore” 
+with Tilak K. Doshi, Neil S. D’Souza, Nguyen Phuong Linh, Teo Han Guan. GSTF Journal of Engineering Technology, 2(1), 2013.
 
-#### “Energy Efficiency Policies in the Asia-Pacific: Can We Do Better?” (with Tilak K. Doshi) Working Paper, Pacific Energy Summit, National Bureau of Asian Research, March 2013.
+#### “Impact of Climate Change on Electricity Demand of Singapore” 
+with Tilak K. Doshi, Abhishek Rohatgi and Yuen Kah Hung. Proceedings of the Singapore Economic Review Conference 2013, August 2013.
 
-#### “Regulatory Reform – Case Studies on Green Investments.” (with Tilak K. Doshi, Neil S. D’Souza, Belinda Salim, Rachel Wong, Tim Ogden, Salim Mazouz), APEC Policy Support Unit, March 2013.
+#### “Energy Efficiency Policies in the Asia-Pacific: Can We Do Better?” 
+with Tilak K. Doshi. Working Paper, Pacific Energy Summit, National Bureau of Asian Research, March 2013.
 
-#### “Prospects for Transpacific Energy Trade.” (with Tilak K. Doshi) Supplement to the State Of The Region 2011-2012, Pacific Economic Cooperation Council, 2011.  
+#### “Regulatory Reform – Case Studies on Green Investments.” 
+with Tilak K. Doshi, Neil S. D’Souza, Belinda Salim, Rachel Wong, Tim Ogden, Salim Mazouz. APEC Policy Support Unit, March 2013.
+
+#### “Prospects for Transpacific Energy Trade.”
+with Tilak K. Doshi. Supplement to the State Of The Region 2011-2012, Pacific Economic Cooperation Council, 2011.  
 
