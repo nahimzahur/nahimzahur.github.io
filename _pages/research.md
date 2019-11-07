@@ -53,6 +53,8 @@ with Abhishek Rohatgi and Tian Sheng Allan Loi. In van Calster, Geert, Vandenber
 “The Economics of Solar PV in Singapore” 
 with Tilak K. Doshi, Neil S. D’Souza, Nguyen Phuong Linh, and Teo Han Guan. GSTF Journal of Engineering Technology, 2(1), 2013.
 
+"Comparing Energy Efficiency Across Countries and Over Time: A Decomposition Approach." Proceedings of the 36th Annual IAEE (International Association for Energy Economics) International Conference, Daegu, Korea, 2013.
+
 “Impact of Climate Change on Electricity Demand of Singapore” 
 with Tilak K. Doshi, Abhishek Rohatgi and Yuen Kah Hung. Proceedings of the Singapore Economic Review Conference 2013, August 2013.
 
@@ -61,7 +63,4 @@ with Tilak K. Doshi. Working Paper, Pacific Energy Summit, National Bureau of As
 
 “Regulatory Reform – Case Studies on Green Investments.” 
 with Tilak K. Doshi, Neil S. D’Souza, Belinda Salim, Rachel Wong, Tim Ogden, Salim Mazouz. APEC Policy Support Unit, March 2013.
-
-“Prospects for Transpacific Energy Trade.”
-with Tilak K. Doshi. Supplement to the State Of The Region 2011-2012, Pacific Economic Cooperation Council, 2011.  
 
