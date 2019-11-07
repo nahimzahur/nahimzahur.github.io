@@ -44,3 +44,16 @@ from 2006 to 2017 on spot market trade flows, spot prices, shipping costs and se
 with Deyu Rao
 
 The cost of congestion is a key input in the design of transportation policy. Existing estimates of the social cost of traffic congestion account for the value of travel time, increased air pollution and accidents, and the impact on subjective well-being. We highlight an important additional cost: congestion disrupts economic activities. Consumers who cancel or postpone their spending plans on congested days incur a cost from not being able to engage in consumption at their preferred time. This paper investigates how traffic congestion affects consumption, focusing on Beijing in 2014. Using high-frequency credit and debit card consumption and traffic congestion data, we show that a 10% increase in travel time leads to a 2.4% decrease in consumption on the same day. We find little evidence to suggest that consumers substitute consumption over time.
+
+## Other Research
+
+### “The Economics of Solar PV in Singapore” (with Tilak K. Doshi, Neil S. D’Souza, Nguyen Phuong Linh, Teo Han Guan). GSTF Journal of Engineering Technology, 2(1), 2013.
+
+### “Drivers of Regulatory Reform in Energy Efficiency and Renewable Energy.” (with Tilak K. Doshi, Carlos Kuriyama) APEC Policy Brief (Issue 7, July 2013).
+
+### “Energy Efficiency Policies in the Asia-Pacific: Can We Do Better?” (with Tilak K. Doshi) Working Paper, Pacific Energy Summit, National Bureau of Asian Research, March 2013.
+
+### “Regulatory Reform – Case Studies on Green Investments.” (with Tilak K. Doshi, Neil S. D’Souza, Belinda Salim, Rachel Wong, Tim Ogden, Salim Mazouz), APEC Policy Support Unit, March 2013.
+
+### “Prospects for Transpacific Energy Trade.” (with Tilak K. Doshi) Supplement to the State Of The Region 2011-2012, Pacific Economic Cooperation Council, 2011.  
+
