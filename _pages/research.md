@@ -45,7 +45,7 @@ with Deyu Rao
 
 The cost of congestion is a key input in the design of transportation policy. Existing estimates of the social cost of traffic congestion account for the value of travel time, increased air pollution and accidents, and the impact on subjective well-being. We highlight an important additional cost: congestion disrupts economic activities. Consumers who cancel or postpone their spending plans on congested days incur a cost from not being able to engage in consumption at their preferred time. This paper investigates how traffic congestion affects consumption, focusing on Beijing in 2014. Using high-frequency credit and debit card consumption and traffic congestion data, we show that a 10% increase in travel time leads to a 2.4% decrease in consumption on the same day. We find little evidence to suggest that consumers substitute consumption over time.
 
-## Other Research (Pre-Doctoral)
+## Other Research
 
 "Climate Change and Buildings: an Asia-Pacific Primer."
 with Abhishek Rohatgi and Tian Sheng Allan Loi. In van Calster, Geert, Vandenberghe, Wim and Reins, Leonie (eds.): Research Handbook on Climate Change Mitigation Law. Edward Elgar 2015, pp. 212-241.
