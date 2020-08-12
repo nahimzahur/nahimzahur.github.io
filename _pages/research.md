@@ -11,8 +11,6 @@ author_profile: true
 
 ### [Long-term Contracts and Efficiency in the Liquefied Natural Gas Industry](https://www.dropbox.com/s/xvfh0of1r5vg8ff/NahimZahur_LNG_Contracts_Draft_2019.pdf?dl=0 "Long-term Contracts and Efficiency in the Liquefied Natural Gas Industry")
 
-Job Market Paper. 
-
 Long-term contracts facilitate efficient levels of investment by sellers faced with the risk of ex-post holdup. Contractual rigidities, however, reduce the ability of the market to respond flexibly to demand uncertainty. This paper provides the first empirical analysis of the trade-off between hold-up risk and contract rigidity, focusing on the liquefied natural gas (LNG) industry, where long-term contracts account for over 70% of trade. I structurally estimate a model of contracting, investment and spot trade that incorporates hold-up risk and contractual rigidities, using a rich dataset on LNG contracts, investment, trade flows, and spot prices. LNG buyers are estimated to have substantial bargaining power, implying that sellers face considerable hold-up risk when making investment decisions. In the short-run, allocative efficiency would improve through reduced use of long-term contracts. However, investment decreases by 35% in the absence of long-run contracting, suggesting that long-term contracts play a significant role in combatting holdup at the cost of short-term allocative efficiency.
 
 ### [China's Industrial Policy: An Empirical Evaluation](https://www.nber.org/papers/w26075 "China's Industrial Policy: An Empirical Evaluation") 
@@ -25,7 +23,7 @@ Industrial policies, broadly defined as policies that shape a country’s or reg
 
 
 ### [The Morbidity Cost of Air Pollution: Evidence from Consumer Spending in China](https://www.nber.org/papers/w24688 "The Morbidity Cost of Air Pollution: Evidence from Consumer Spending in China")
-with Panle Jia Barwick, Shanjun Li and Deyu Rao, 2018.
+with Panle Jia Barwick, Shanjun Li and Deyu Rao, 2018. R&R at The Journal of the European Economic Association.
 
 *NBER Working Paper No. 24688*
 
