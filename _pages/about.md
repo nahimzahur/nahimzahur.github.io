@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD Candidate in Economics at Cornell University. My research interests are in Empirical Industrial Organization and Environmental and Energy Economics. I am currently on the job market and expect to graduate in Spring 2020.
+Welcome! I am an Assistant Professor of Economics at Queen's University. I joined the department in 2020 after receiving my PhD from Cornell University. My research interests are in Empirical Industrial Organization and Environmental and Energy Economics. 
 
-I will be available for interviews at the 2020 ASSA Annual Meeting in San Diego.
