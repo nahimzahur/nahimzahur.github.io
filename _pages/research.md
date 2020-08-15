@@ -23,7 +23,7 @@ Industrial policies, broadly defined as policies that shape a country’s or reg
 
 
 ### [The Morbidity Cost of Air Pollution: Evidence from Consumer Spending in China](https://www.nber.org/papers/w24688 "The Morbidity Cost of Air Pollution: Evidence from Consumer Spending in China")
-with Panle Jia Barwick, Shanjun Li and Deyu Rao, 2018. R&R at The Journal of the European Economic Association.
+with Panle Jia Barwick, Shanjun Li and Deyu Rao, 2018.
 
 *NBER Working Paper No. 24688*
 
