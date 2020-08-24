@@ -22,7 +22,7 @@ with Panle Jia Barwick and Myrto Kalouptsidi, 2020.
 In this paper we study the role of industrial policy in shaping the evolution of a global industry. We assess the long-run performance of different policy instruments, which include production subsidies, investment subsidies, entry subsidies, and consolidation policies. To do so, we examine a recent industrial policy in China aiming to propel the country’s shipbuilding industry to the largest globally. Using a dynamic model of firm entry, exit, investment, and production, combined with firm-level data, we find that (i) the policy boosted China’s domestic investment, entry, and international market share dramatically, but delivered low returns and led to fragmentation, idleness, as well as depressed world ship prices; (ii) the effectiveness of different policy instruments is mixed: production and investment subsidies can be justified by market share considerations, while entry subsidies are wasteful; (iii) counter-cyclical policies and firm-targeting can substantially reduce the distortions. Our results highlight the critical role of firm heterogeneity in policy design.
 
 
-### [The Morbidity Cost of Air Pollution: Evidence from the World’s Largest Payment Network](Morbidity_Cost_PM2_5_20200614_SL "The Morbidity Cost of Air Pollution: Evidence from the World’s Largest Payment Network")
+### [The Morbidity Cost of Air Pollution: Evidence from the World’s Largest Payment Network](https://www.dropbox.com/s/jw2srrywx89edij/Morbidity_Cost_PM2_5_20200614_SL.pdf?dl=0 "The Morbidity Cost of Air Pollution: Evidence from the World’s Largest Payment Network")
 with Panle Jia Barwick, Shanjun Li and Deyu Rao, 2020.
 
 *NBER Working Paper No. 24688*
