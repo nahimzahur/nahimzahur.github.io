@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 Department of Economics
-Cornell University,
-Ithaca, NY 14850
+Queen's University,
+Kingston, Ontario, Canada
 
-Email: [nz96@cornell.edu](nz96@cornell.edu)
+Email: [nahim.zahur@queensu.edu](nahim.zahur@queensu.edu)
 
 Website: [https://nahimzahur.github.io/](https://nahimzahur.github.io/)
