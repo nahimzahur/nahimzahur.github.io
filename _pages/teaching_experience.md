@@ -5,11 +5,15 @@ permalink: /teaching_experience/
 author_profile: true
 ---
 
-Teaching Assistant, Econometrics II (graduate), Cornell University, [Spring 2017.](http://nahimzahur.github.io/files/Spring_2017_Grad_Metrics_II_Evaluation.pdf) 
+Instructor, Environmental Economics (graduate), Queen’s University, Winter 2022.
 
-Teaching Assistant, Econometrics II (graduate), Cornell University, [Spring 2016.](http://nahimzahur.github.io/files/Spring_2016_Grad_Metrics_II_Evaluation.pdf). Awarded the Louis Walinsky Fund in Economics Outstanding Teaching Award.
+Instructor, Industrial Organization and Public Policy (undergraduate), Queen’s University, Winter 2021, Winter 2022.
 
-Teaching Assistant, Microeconomic Theory (graduate), Cornell University, [Fall 2015.](http://nahimzahur.github.io/files/Fall_2015_Grad_Micro_I_Evaluation.pdf) 
+Teaching Assistant, Econometrics II (graduate), Cornell University, Spring 2017. 
+
+Teaching Assistant, Econometrics II (graduate), Cornell University, Spring 2016. 
+
+Teaching Assistant, Microeconomic Theory (graduate), Cornell University, Fall 2015. 
 
 ### Teaching Awards
 
