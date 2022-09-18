@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Department of Economics
+Department of Economics, 
 Queen's University,
 Kingston, Ontario, Canada
 
