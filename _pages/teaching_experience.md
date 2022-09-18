@@ -5,6 +5,8 @@ permalink: /teaching_experience/
 author_profile: true
 ---
 
+Instructor, Environmental Economics and Assessment (undergraduate), Queen’s University, Fall 2022.
+
 Instructor, Environmental Economics (graduate), Queen’s University, Winter 2022.
 
 Instructor, Industrial Organization and Public Policy (undergraduate), Queen’s University, Winter 2021, Winter 2022.
