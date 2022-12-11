@@ -11,9 +11,11 @@ author_profile: true
 
 ### [Long-term Contracts and Efficiency in the Liquefied Natural Gas Industry](https://www.dropbox.com/s/njxs3mfdjroyhq6/NahimZahur_LNG_Contracts.pdf?raw=1 "Long-term Contracts and Efficiency in the Liquefied Natural Gas Industry")
 
+[Supplementary Online Appendix](https://www.dropbox.com/s/qmv6qbakepwjek8/NahimZahur_LNG_Contracts_2022_Supplementary_Material.pdf?raw=1 "Supplementary Online Appendix")
+
 In many capital-intensive markets, sellers sign long-term contracts with buyers before committing to sunk cost investments. Ex-ante contracts mitigate the risk of under-investment arising from ex-post bargaining. However, contractual rigidities reduce the ability of firms to respond flexibly to demand shocks. This paper provides the first empirical analysis of this trade-off, focusing on the liquefied natural gas (LNG) industry, where long-term contracts account for over 70% of trade. I develop a model of contracting, investment and spot trade that incorporates bargaining frictions and contractual rigidities. I structurally estimate this model using a rich dataset of the LNG industry, employing a novel estimation strategy that utilizes the timing of contracting and investment decisions to infer bargaining power. I find that without long-term contracts, sellers would decrease investment by 27%, but allocative efficiency would significantly improve. Negative contracting externalities lead to inefficient over-use of long-term contracts in equilibrium. Policies aimed at eliminating contractual rigidities reduce investment by 16%, but raise welfare by 9%.
 
-(https://www.dropbox.com/s/qmv6qbakepwjek8/NahimZahur_LNG_Contracts_2022_Supplementary_Material.pdf?raw=1 "Supplementary Online Appendix")
+
 
 
 ### [Industrial Policy Implementation: Empirical Evidence from China's Shipbuilding Industry](https://www.dropbox.com/s/553xi6okmeimqrn/Yr21_ChinaShipyard_Sep27.pdf?raw=1 "Industrial Policy Implementation: Empirical Evidence from China's Shipbuilding Industry") 
