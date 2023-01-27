@@ -46,6 +46,10 @@ from 2006 to 2017 on spot market trade flows, spot prices, shipping costs and se
 ### Pass-Through of Electric Vehicle Subsidies: A Global Analysis
 with Panle Barwick, Hyuk-soo Kwon, Binglin Wang. 
 
+## Publications
+
+### Analysis of the optimal policy for managing strategic petroleum reserves under long-term uncertainty: The ASEAN case
+with Fernando S. Oliveira and Fulan Wu. ***Computers \& Industrial Engineering*** 175 (2023): 108834.
 
 ## Works in Progress
 
@@ -59,10 +63,7 @@ with Panle Jia Barwick, Hyuk-soo Kwon and Shanjun Li.
 
 
 
-## Publications
 
-### Analysis of the optimal policy for managing strategic petroleum reserves under long-term uncertainty: The ASEAN case
-with Fernando S. Oliveira and Fulan Wu. ***Computers \& Industrial Engineering*** 175 (2023): 108834.
 
 ## Other Research
 
