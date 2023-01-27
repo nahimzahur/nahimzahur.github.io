@@ -49,7 +49,7 @@ with Panle Barwick, Hyuk-soo Kwon, Binglin Wang.
 ## Publications
 
 ### Analysis of the optimal policy for managing strategic petroleum reserves under long-term uncertainty: The ASEAN case
-with Fernando S. Oliveira and Fulan Wu. ***Computers \& Industrial Engineering*** 175 (2023): 108834.
+with Fernando S. Oliveira and Fulan Wu. ***Computers & Industrial Engineering*** 175 (2023): 108834.
 
 ## Works in Progress
 
