@@ -28,7 +28,7 @@ reduce distortions. Our results highlight the critical role of firm heterogeneit
 
 
 ### [The Healthcare Cost of Air Pollution: Evidence from the World's Largest Payment Network](https://www.dropbox.com/s/fnf9xum7ufayxfy/Yr21_May21_PollutionHealth.pdf?raw=1 "The Healthcare Cost of Air Pollution: Evidence from the World's Largest Payment Network")
-with Panle Jia Barwick, Shanjun Li and Deyu Rao, 2021. NBER Working Paper No. 24688. Conditionally accepted at ***Review of Economics and Statistics***. 
+with Panle Jia Barwick, Shanjun Li and Deyu Rao, 2022. NBER Working Paper No. 24688. Conditionally accepted at ***Review of Economics and Statistics***. 
 
 Using the universe of credit- and debit-card transactions in China during 2013-2015, this paper provides the first nationwide analysis of the healthcare cost of PM2.5. We leverage spatial spillovers of PM2.5 from long-range transport for exogenous variation in local pollution and employ a flexible distributed lag model to capture semiparametrically the dynamic response of pollution exposure. Our analysis shows significant impacts of PM2.5 on healthcare spending in both the short and medium terms. A 10 mg/m3 decrease in PM2.5 would reduce annual healthcare spending by more than $9.2 billion, about 1.5% of China’s annual healthcare expenditure.
 
