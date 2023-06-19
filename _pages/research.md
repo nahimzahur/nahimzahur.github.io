@@ -11,8 +11,7 @@ author_profile: true
 
 [Supplementary Online Appendix](https://www.dropbox.com/s/qmv6qbakepwjek8/NahimZahur_LNG_Contracts_2022_Supplementary_Material.pdf?raw=1 "Supplementary Online Appendix")
 
-In many capital-intensive markets, sellers sign long-term contracts with buyers before committing to sunk cost investments. Ex-ante contracts mitigate the risk of under-investment arising from ex-post bargaining. However, contractual rigidities reduce the ability of firms to respond flexibly to demand shocks. This paper provides an empirical analysis of this trade-off, focusing on the liquefied natural gas (LNG) industry, where long-term contracts account for over 70% of trade. I develop a model of contracting, investment and spot trade that incorporates bargaining frictions and contractual rigidities. I structurally estimate this model using a rich dataset of the LNG industry, employing a novel estimation strategy that utilizes the timing of contracting and investment decisions to infer bargaining power. I find that without long-term contracts, sellers would decrease investment by 27%, but allocative efficiency would significantly improve. Negative contracting externalities lead to inefficient over-use of long-term contracts in equilibrium. Policies aimed at eliminating contractual rigidities reduce investment by 16%, but raise welfare
-by 9%.
+In many capital-intensive markets, sellers sign long-term contracts with buyers before committing to sunk cost investments. Ex-ante contracts mitigate the risk of under-investment arising from ex-post bargaining. However, contractual rigidities reduce the ability of firms to respond flexibly to demand shocks. This paper provides an empirical analysis of this trade-off, focusing on the liquefied natural gas (LNG) industry, where long-term contracts account for over 70% of trade. I develop a model of contracting, investment and spot trade that incorporates bargaining frictions and contractual rigidities. I structurally estimate this model using a rich dataset of the LNG industry, employing a novel estimation strategy that utilizes the timing of contracting and investment decisions to infer bargaining power. I find that without long-term contracts, sellers would decrease investment by 27%, but allocative efficiency would significantly improve. Negative contracting externalities lead to inefficient over-use of long-term contracts in equilibrium. Policies aimed at eliminating contractual rigidities reduce investment by 16%, but raise welfare by 9%.
 
 
 
@@ -20,8 +19,6 @@ by 9%.
 
 ### [Industrial Policy Implementation: Empirical Evidence from China's Shipbuilding Industry](https://www.dropbox.com/s/553xi6okmeimqrn/Yr21_ChinaShipyard_Sep27.pdf?raw=1 "Industrial Policy Implementation: Empirical Evidence from China's Shipbuilding Industry") 
 with Panle Jia Barwick and Myrto Kalouptsidi, 2021. NBER Working Paper No. 26075. Conditionally accepted at ***Review of Economic Studies***. 
-
-
 
 Industrial policies are widely used across the world. In practice, designing and implementing these policies is a complicated task. In this paper, we assess the long-term performance of different industrial policy instruments, which include production subsidies, investment subsidies, entry subsidies, and consolidation policies. To do so, we examine a recent industrial policy in China aiming to propel the country’s shipbuilding industry to the largest globally. Using firm-level data and a dynamic model of firm entry, exit, investment, and production, we find that (i) the policy boosted China’s domestic investment, entry, and international market share dramatically, but delivered low returns and led to fragmentation, idle capacity, as well as depressed world ship prices; (ii) the effectiveness of different policy instruments is mixed: production and investment subsidies can be justified by market share considerations, while entry subsidies are wasteful; (iii) counter-cyclical policies and firm-targeting can substantially
 reduce distortions. Our results highlight the critical role of firm heterogeneity, business cycles and firms’ cost structure in policy design.
@@ -33,7 +30,7 @@ with Panle Jia Barwick, Shanjun Li and Deyu Rao, 2022. NBER Working Paper No. 24
 Using the universe of credit- and debit-card transactions in China during 2013-2015, this paper provides the first nationwide analysis of the healthcare cost of PM2.5. We leverage spatial spillovers of PM2.5 from long-range transport for exogenous variation in local pollution and employ a flexible distributed lag model to capture semiparametrically the dynamic response of pollution exposure. Our analysis shows significant impacts of PM2.5 on healthcare spending in both the short and medium terms. A 10 mg/m3 decrease in PM2.5 would reduce annual healthcare spending by more than $9.2 billion, about 1.5% of China’s annual healthcare expenditure.
 
 ### [Procurement Institutions and Essential Drug Supply in Low and Middle-Income Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3926761 "Procurement Institutions and Essential Drug Supply in Low and Middle-Income Countries")
-with Lucy Xiaolu Wang, 2023. Reject and Resubmit at ***Management Science***. 
+with Lucy Xiaolu Wang, 2023.  
 
 International procurement institutions have played an important role in drug supply. This paper studies price, delivery, and shipment time of essential drugs supplied in 106 developing countries from 2007-2017 across four procurement institution types. We find that pooled procurement institutions lower prices: pooling internationally is most effective for small buyers and more concentrated markets, and pooling within-country is most effective for large buyers and less concentrated markets. Pooling can reduce delays, but at the cost of longer anticipated shipment times. Finally, pooled procurement is more effective for older generation drugs, compared to IP licensing institutions that focus on newer, patented drugs. We corroborate the findings using multiple identification strategies, including an instrumental variable strategy as well as the Altonji-Elder-Taber-Oster method for selection on unobservables. Our results suggest that the optimal mixture of procurement institutions depends on the trade-off between costs and urgency of need, with pooled international procurement institutions particularly valuable when countries can plan well ahead of time.
 
@@ -64,7 +61,8 @@ The cost of congestion is a key input in the design of transportation policy. Ex
 with Panle Jia Barwick, Hyuk-soo Kwon and Shanjun Li.
 
 
-
+### Booms, Busts and Containership Leasing Contracts: An Empirical Analysis
+with Nicholas Vreugdenhil and Maria Osipenko.
 
 
 ## Other Research
