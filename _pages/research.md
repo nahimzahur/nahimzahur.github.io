@@ -67,6 +67,10 @@ with Nicholas Vreugdenhil and Maria Osipenko.
 
 ## Other Research
 
+"Singapore’s Energy Sustainability Policies: Balance Between Market and Government," with Tilak K. Doshi. In Quah, Euston, and Renate Schubert, eds. Sustainability and Environmental Decision Making, 2021: 311-375.
+
+“Assessing Singapore’s Electric Vehicle Policies”, with Tilak K. Doshi. IAEE Energy Forum, Fourth Quarter 2020.
+
 "Climate Change and Buildings: an Asia-Pacific Primer."
 with Abhishek Rohatgi and Tian Sheng Allan Loi. In van Calster, Geert, Vandenberghe, Wim and Reins, Leonie (eds.): Research Handbook on Climate Change Mitigation Law. Edward Elgar 2015, pp. 212-241.
 
