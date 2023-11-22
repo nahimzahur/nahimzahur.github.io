@@ -52,17 +52,22 @@ with Panle Barwick, Hyuk-soo Kwon, Binglin Wang. Forthcoming at ***American Econ
 
 ## Works in Progress
 
+### Drive Down the Cost: Learning by Doing and Government Policy in the Electric Vehicle Battery Industry
+with Panle Jia Barwick, Hyuk-soo Kwon and Shanjun Li.
+
+The global battery industry has achieved significant cost savings: electric vehicle (EV) battery costs have dropped by more than 90% over the past decade. This study assesses the extent to which this sharp decline in lithium-ion battery prices is attributable to learning-by-doing, and quantifies the impact of government policies (subsidies and local protection policies) on learning. Our analysis is based on a rich dataset consisting of 1) model-level sales, prices, and attributes of EVs and 2) battery suppliers and characteristics, for 13 countries from 2013 to 2020, that together account for over 95% of global EV sales. We estimate a structural model of the global EV industry, accounting for consumer vehicle choices, EV makers' pricing decisions, and bilateral bargaining between EV manufacturers and battery suppliers over battery prices. We recover the model-implied battery costs and evaluate how battery costs change with the accumulated production experience of battery suppliers, finding that learning-by-doing explains a substantial portion of the observed battery cost reductions. Lastly, we use the estimated model to examine the strategies of the US and China to protect their domestic battery industries: both countries require automakers to use domestically produced batteries to receive EV subsidies. We simulate equilibrium outcomes without such restrictions to evaluate the impact of local protectionism on cost-saving innovations in the global battery industry.
+
+### Booms, Busts, and Endogeneous Rigidities: Evidence from Containerships
+with Nicholas Vreugdenhil and Maria Osipenko.
+
+This paper investigates how endogenous rigidities inhibit efficient physical capital reallocation. We focus on the role of contract duration - a classic example of an adjustment rigidity. We argue that when agents choose to sign longer contracts in booms when asset markets are thin, they generate a contracting externality which further reduces available capacity and amplifies market thinness. This causes equilibrium contracts to be inefficiently long in booms and inhibits the adjustment of these markets to productivity shocks. We show evidence for these mechanisms in the market for containership leasing contracts. We provide a framework that captures the details of the market and illustrates the tradeoffs conceptually. Overall, the results have implications for policies in this industry like counter-cyclical subsidies, as well as the fragility of the supply-chain to shocks.
+
 ### Traffic Congestion and Consumer Spending
 with Deyu Rao
 
 The cost of congestion is a key input in the design of transportation policy. Existing estimates of the social cost of traffic congestion account for the value of travel time, increased air pollution and accidents, and the impact on subjective well-being. We highlight an important additional cost: congestion disrupts economic activities. Consumers who cancel or postpone their spending plans on congested days incur a cost from not being able to engage in consumption at their preferred time. This paper investigates how traffic congestion affects consumption, focusing on Beijing in 2014. Using high-frequency credit and debit card consumption and traffic congestion data, we show that a 10% increase in travel time leads to a 2.4% decrease in consumption on the same day. We find little evidence to suggest that consumers substitute consumption over time.
 
-### Vertical Structure and Learning by Doing in the Electric Vehicle Battery Industry
-with Panle Jia Barwick, Hyuk-soo Kwon and Shanjun Li.
 
-
-### Booms, Busts and Containership Leasing Contracts: An Empirical Analysis
-with Nicholas Vreugdenhil and Maria Osipenko.
 
 
 ## Other Research
