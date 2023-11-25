@@ -9,6 +9,6 @@ Department of Economics,
 Queen's University,
 Kingston, Ontario, Canada
 
-Email: [nahim.zahur@queensu.edu](nahim.zahur@queensu.edu)
+Email: [nahim.zahur@queensu.ca](nahim.zahur@queensu.ca)
 
 Website: [https://nahimzahur.github.io/](https://nahimzahur.github.io/)
