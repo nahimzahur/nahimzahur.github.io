@@ -48,7 +48,7 @@ from 2006 to 2017 on spot market trade flows, spot prices, shipping costs and se
 with Fernando S. Oliveira and Fulan Wu. ***Computers & Industrial Engineering*** 175 (2023): 108834.
 
 ### Pass-Through of Electric Vehicle Subsidies: A Global Analysis
-with Panle Barwick, Hyuk-soo Kwon, Binglin Wang. Forthcoming at ***American Economic Association: Papers & Proceedings*** (2023). [Link](https://www.aeaweb.org/articles?id=10.1257/pandp.20231064 "Link"). [WP](https://drive.google.com/file/d/1WgrsGhbKWsrahLVRH08B1p4P7cxCyfsB/view "WP") 
+with Panle Barwick, Hyuk-soo Kwon, Binglin Wang. ***American Economic Association: Papers & Proceedings*** 113 (2023): 323-28. [Link](https://www.aeaweb.org/articles?id=10.1257/pandp.20231064 "Link"). [WP](https://drive.google.com/file/d/1WgrsGhbKWsrahLVRH08B1p4P7cxCyfsB/view "WP") 
 
 ## Works in Progress
 
