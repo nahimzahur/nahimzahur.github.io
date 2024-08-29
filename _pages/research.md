@@ -24,13 +24,10 @@ Industrial policies are widely used across the world. In practice, designing and
 reduce distortions. Our results highlight the critical role of firm heterogeneity, business cycles and firms’ cost structure in policy design.
 
 
-### [The Healthcare Cost of Air Pollution: Evidence from the World's Largest Payment Network](https://www.dropbox.com/s/mtkp3esns9m724z/BLRZ_2022_Pollution_Health_China.pdf?raw=1 "The Healthcare Cost of Air Pollution: Evidence from the World's Largest Payment Network")
-with Panle Jia Barwick, Shanjun Li and Deyu Rao, 2022. NBER Working Paper No. 24688. Accepted at ***Review of Economics and Statistics***. 
 
-Using the universe of credit- and debit-card transactions in China during 2013-2015, this paper provides the first nationwide analysis of the healthcare cost of PM2.5. We leverage spatial spillovers of PM2.5 from long-range transport for exogenous variation in local pollution and employ a flexible distributed lag model to capture semiparametrically the dynamic response of pollution exposure. Our analysis shows significant impacts of PM2.5 on healthcare spending in both the short and medium terms. A 10 mg/m3 decrease in PM2.5 would reduce annual healthcare spending by more than $9.2 billion, about 1.5% of China’s annual healthcare expenditure.
 
 ### [Procurement Institutions and Essential Drug Supply in Low and Middle-Income Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3926761 "Procurement Institutions and Essential Drug Supply in Low and Middle-Income Countries")
-with Lucy Xiaolu Wang, 2023.  
+with Lucy Xiaolu Wang, 2023. R&R at ***Journal of Health Economics***.  
 
 International procurement institutions have played an important role in drug supply. This paper studies price, delivery, and shipment time of essential drugs supplied in 106 developing countries from 2007-2017 across four procurement institution types. We find that pooled procurement institutions lower prices: pooling internationally is most effective for small buyers and more concentrated markets, and pooling within-country is most effective for large buyers and less concentrated markets. Pooling can reduce delays, but at the cost of longer anticipated shipment times. Finally, pooled procurement is more effective for older generation drugs, compared to IP licensing institutions that focus on newer, patented drugs. We corroborate the findings using multiple identification strategies, including an instrumental variable strategy as well as the Altonji-Elder-Taber-Oster method for selection on unobservables. Our results suggest that the optimal mixture of procurement institutions depends on the trade-off between costs and urgency of need, with pooled international procurement institutions particularly valuable when countries can plan well ahead of time.
 
@@ -43,6 +40,9 @@ from 2006 to 2017 on spot market trade flows, spot prices, shipping costs and se
 
 
 ## Publications
+
+### [The Healthcare Cost of Air Pollution: Evidence from the World's Largest Payment Network](https://www.dropbox.com/s/mtkp3esns9m724z/BLRZ_2022_Pollution_Health_China.pdf?raw=1 "The Healthcare Cost of Air Pollution: Evidence from the World's Largest Payment Network")
+with Panle Jia Barwick, Shanjun Li and Deyu Rao, 2024. Forthcoming at ***Review of Economics and Statistics***. [Link](https://doi.org/10.1162/rest_a_01430 "Link"). 
 
 ### Analysis of the optimal policy for managing strategic petroleum reserves under long-term uncertainty: The ASEAN case
 with Fernando S. Oliveira and Fulan Wu. ***Computers & Industrial Engineering*** 175 (2023): 108834.
@@ -61,6 +61,9 @@ The global battery industry has achieved significant cost savings: electric vehi
 with Nicholas Vreugdenhil and Maria Osipenko.
 
 This paper investigates how endogenous rigidities inhibit efficient physical capital reallocation. We focus on the role of contract duration - a classic example of an adjustment rigidity. We argue that when agents choose to sign longer contracts in booms when asset markets are thin, they generate a contracting externality which further reduces available capacity and amplifies market thinness. This causes equilibrium contracts to be inefficiently long in booms and inhibits the adjustment of these markets to productivity shocks. We show evidence for these mechanisms in the market for containership leasing contracts. We provide a framework that captures the details of the market and illustrates the tradeoffs conceptually. Overall, the results have implications for policies in this industry like counter-cyclical subsidies, as well as the fragility of the supply-chain to shocks.
+
+### Industrial Policy: Lessons from Shipbuilding
+with Myrto Kalouptsidi and Panle Jia Barwick
 
 ### Traffic Congestion and Consumer Spending
 with Deyu Rao
