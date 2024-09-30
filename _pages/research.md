@@ -50,6 +50,9 @@ with Fernando S. Oliveira and Fulan Wu. ***Computers & Industrial Engineering***
 ### Pass-Through of Electric Vehicle Subsidies: A Global Analysis
 with Panle Barwick, Hyuk-soo Kwon, Binglin Wang. ***American Economic Association: Papers & Proceedings*** 113 (2023): 323-28. [Link](https://www.aeaweb.org/articles?id=10.1257/pandp.20231064 "Link"). [WP](https://drive.google.com/file/d/1WgrsGhbKWsrahLVRH08B1p4P7cxCyfsB/view "WP") 
 
+### [Industrial Policy: Lessons from Shipbuilding](https://panlebarwick.github.io/papers/Yr24_JEP_IndPolicy.pdf "Industrial Policy: Lessons from Shipbuilding")
+with Myrto Kalouptsidi and Panle Jia Barwick. Forthcoming at ***Journal of Economic Perspectives***. 
+
 ## Works in Progress
 
 ### Drive Down the Cost: Learning by Doing and Government Policy in the Electric Vehicle Battery Industry
@@ -62,8 +65,7 @@ with Nicholas Vreugdenhil and Maria Osipenko.
 
 This paper investigates how endogenous rigidities inhibit efficient physical capital reallocation. We focus on the role of contract duration - a classic example of an adjustment rigidity. We argue that when agents choose to sign longer contracts in booms when asset markets are thin, they generate a contracting externality which further reduces available capacity and amplifies market thinness. This causes equilibrium contracts to be inefficiently long in booms and inhibits the adjustment of these markets to productivity shocks. We show evidence for these mechanisms in the market for containership leasing contracts. We provide a framework that captures the details of the market and illustrates the tradeoffs conceptually. Overall, the results have implications for policies in this industry like counter-cyclical subsidies, as well as the fragility of the supply-chain to shocks.
 
-### Industrial Policy: Lessons from Shipbuilding
-with Myrto Kalouptsidi and Panle Jia Barwick
+
 
 ### Traffic Congestion and Consumer Spending
 with Deyu Rao
