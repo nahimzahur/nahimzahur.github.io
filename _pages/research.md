@@ -36,7 +36,7 @@ International procurement institutions have played an important role in drug sup
 </details>
 
 ### [Industrial Policies and Innovation: Evidence from the Global Automobile Industry](https://panlebarwick.github.io/papers/Yr24_Auto_IP_Patent.pdf) 
-with Yucheng Wang, Panle Jia Barwick, Hyuk-soo Kwon, and Shanjun Li. 
+with Panle Jia Barwick, Hyuk-soo Kwon, Shanjun Li, and Yucheng Wang. 
 
 <details>
 <summary>Abstract:</summary>
