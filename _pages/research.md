@@ -32,7 +32,7 @@ with Lucy Xiaolu Wang, 2023. R&R at ***Journal of Health Economics***.
 International procurement institutions have played an important role in drug supply. This paper studies price, delivery, and shipment time of essential drugs supplied in 106 developing countries from 2007-2017 across four procurement institution types. We find that pooled procurement institutions lower prices: pooling internationally is most effective for small buyers and more concentrated markets, and pooling within-country is most effective for large buyers and less concentrated markets. Pooling can reduce delays, but at the cost of longer anticipated shipment times. Finally, pooled procurement is more effective for older generation drugs, compared to IP licensing institutions that focus on newer, patented drugs. We corroborate the findings using multiple identification strategies, including an instrumental variable strategy as well as the Altonji-Elder-Taber-Oster method for selection on unobservables. Our results suggest that the optimal mixture of procurement institutions depends on the trade-off between costs and urgency of need, with pooled international procurement institutions particularly valuable when countries can plan well ahead of time.
 
 ### [Industrial Policies and Innovation: Evidence from the Global Automobile Industry](https://panlebarwick.github.io/papers/Yr24_Auto_IP_Patent.pdf) 
-with Panle Jia Barwick, Shanjun Li, Hyuk-soo Kwon and Yucheng Wang. 
+with Yucheng Wang, Panle Jia Barwick, Hyuk-soo Kwon, and Shanjun Li. 
 
 This paper examines the impact of industrial policies (IPs) on innovation in the global
 automobile industry. We compile the first comprehensive dataset linking global IPs with
