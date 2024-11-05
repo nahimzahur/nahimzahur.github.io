@@ -27,9 +27,7 @@ with Panle Jia Barwick and Myrto Kalouptsidi, 2021. NBER Working Paper No. 26075
 Industrial policies are widely used across the world. In practice, designing and implementing these policies is a complicated task. In this paper, we assess the long-term performance of different industrial policy instruments, which include production subsidies, investment subsidies, entry subsidies, and consolidation policies. To do so, we examine a recent industrial policy in China aiming to propel the country’s shipbuilding industry to the largest globally. Using firm-level data and a dynamic model of firm entry, exit, investment, and production, we find that (i) the policy boosted China’s domestic investment, entry, and international market share dramatically, but delivered low returns and led to fragmentation, idle capacity, as well as depressed world ship prices; (ii) the effectiveness of different policy instruments is mixed: production and investment subsidies can be justified by market share considerations, while entry subsidies are wasteful; (iii) counter-cyclical policies and firm-targeting can substantially reduce distortions. Our results highlight the critical role of firm heterogeneity, business cycles and firms’ cost structure in policy design.
 </details>
 
-
-
-### [Procurement Institutions and Essential Drug Supply in Low and Middle-Income Countries](https://papers.ssrn.com/sol3/papers.cfm?Read abstract_id=3926761 "Procurement Institutions and Essential Drug Supply in Low and Middle-Income Countries")
+### [Procurement Institutions and Essential Drug Supply in Low and Middle-Income Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3926761 "Procurement Institutions and Essential Drug Supply in Low and Middle-Income Countries")
 with Lucy Xiaolu Wang, 2023. R&R at ***Journal of Health Economics***.  
 
 <details>
