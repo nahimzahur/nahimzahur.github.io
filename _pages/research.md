@@ -12,7 +12,7 @@ author_profile: true
 [Supplementary Online Appendix](https://www.dropbox.com/s/qmv6qbakepwjek8/NahimZahur_LNG_Contracts_2022_Supplementary_Material.pdf?raw=1 "Supplementary Online Appendix")
 
 <details>
-<summary>Read abstract:</summary>
+<summary>Abstract:</summary>
 In many capital-intensive markets, sellers sign long-term contracts with buyers before committing to sunk cost investments. Ex-ante contracts mitigate the risk of under-investment arising from ex-post bargaining. However, contractual rigidities reduce the ability of firms to respond flexibly to demand shocks. This paper provides an empirical analysis of this trade-off, focusing on the liquefied natural gas (LNG) industry, where long-term contracts account for over 70% of trade. I develop a model of contracting, investment and spot trade that incorporates bargaining frictions and contractual rigidities. I structurally estimate this model using a rich dataset of the LNG industry, employing a novel estimation strategy that utilizes the timing of contracting and investment decisions to infer bargaining power. I find that without long-term contracts, sellers would decrease investment by 27%, but allocative efficiency would significantly improve. Negative contracting externalities lead to inefficient over-use of long-term contracts in equilibrium. Policies aimed at eliminating contractual rigidities reduce investment by 16%, but raise welfare by 9%.
 </details>
 
@@ -23,7 +23,7 @@ In many capital-intensive markets, sellers sign long-term contracts with buyers 
 with Panle Jia Barwick and Myrto Kalouptsidi, 2021. NBER Working Paper No. 26075. Accepted at ***Review of Economic Studies***. 
 
 <details>
-<summary>Read abstract:</summary>
+<summary>Abstract:</summary>
 Industrial policies are widely used across the world. In practice, designing and implementing these policies is a complicated task. In this paper, we assess the long-term performance of different industrial policy instruments, which include production subsidies, investment subsidies, entry subsidies, and consolidation policies. To do so, we examine a recent industrial policy in China aiming to propel the country’s shipbuilding industry to the largest globally. Using firm-level data and a dynamic model of firm entry, exit, investment, and production, we find that (i) the policy boosted China’s domestic investment, entry, and international market share dramatically, but delivered low returns and led to fragmentation, idle capacity, as well as depressed world ship prices; (ii) the effectiveness of different policy instruments is mixed: production and investment subsidies can be justified by market share considerations, while entry subsidies are wasteful; (iii) counter-cyclical policies and firm-targeting can substantially reduce distortions. Our results highlight the critical role of firm heterogeneity, business cycles and firms’ cost structure in policy design.
 </details>
 
@@ -31,7 +31,7 @@ Industrial policies are widely used across the world. In practice, designing and
 with Lucy Xiaolu Wang, 2023. R&R at ***Journal of Health Economics***.  
 
 <details>
-<summary>Read abstract:</summary>
+<summary>Abstract:</summary>
 International procurement institutions have played an important role in drug supply. This paper studies price, delivery, and shipment time of essential drugs supplied in 106 developing countries from 2007-2017 across four procurement institution types. We find that pooled procurement institutions lower prices: pooling internationally is most effective for small buyers and more concentrated markets, and pooling within-country is most effective for large buyers and less concentrated markets. Pooling can reduce delays, but at the cost of longer anticipated shipment times. Finally, pooled procurement is more effective for older generation drugs, compared to IP licensing institutions that focus on newer, patented drugs. We corroborate the findings using multiple identification strategies, including an instrumental variable strategy as well as the Altonji-Elder-Taber-Oster method for selection on unobservables. Our results suggest that the optimal mixture of procurement institutions depends on the trade-off between costs and urgency of need, with pooled international procurement institutions particularly valuable when countries can plan well ahead of time.
 </details>
 
@@ -39,7 +39,7 @@ International procurement institutions have played an important role in drug sup
 with Yucheng Wang, Panle Jia Barwick, Hyuk-soo Kwon, and Shanjun Li. 
 
 <details>
-<summary>Read abstract:</summary>
+<summary>Abstract:</summary>
 This paper examines the impact of industrial policies (IPs) on innovation in the global
 automobile industry. We compile the first comprehensive dataset linking global IPs with
 patent data related to the auto industry from 2008 to 2023. We document a major shift in policy focus: by 2022, nearly half of all IPs targeted electric vehicles (EV)-related sectors, up from almost none in 2008. In the meantime, there has been a clear technological transition from internal combustion engine (GV) technologies to EV innovations. Our analysis finds a positive relationship between policy support and innovation activity. At the country level, a one-standard-deviation increase in five-year cumulative EV-targeted IPs is associated with a four-percent rise in new EV patent applications. Firm-level analyses (using OLS, IV, and PPML) indicate that a ten-percent increase in EV financial incentives received by automakers and EV battery producers leads to a similar four-percent increase in EV innovations. We confirm the importance of path dependence in the direction of technology change in the automobile industry but find no evidence that EV-targeted IPs stimulate innovation in GV technologies.
@@ -48,7 +48,7 @@ patent data related to the auto industry from 2008 to 2023. We document a major 
 ### [Market Power and Spatial Price Discrimination in the Liquefied Natural Gas Industry](https://www.dropbox.com/s/6cisjyn9v9xzwyx/NahimZahur_LNG_MarketPower_Draft_2023.pdf?raw=1 "Market Power and Spatial Price Discrimination in the Liquefied Natural Gas Industry")
 
 <details>
-<summary>Read abstract:</summary>
+<summary>Abstract:</summary>
 The liquefied natural gas (LNG) industry is characterized by systematic inter-regional price differentials, raising the question of whether sellers price discriminate. This paper measures market power in the LNG spot market and studies how market power influences pricing, trade and welfare. I develop a method for inferring market conduct that utilizes information on sellers’ pricing and quantity decisions across multiple geographically segmented markets. My test for market conduct is based on the observation that sellers exercising market power engage in third-degree price discrimination, whereas sellers behaving competitively do not. Using data
 from 2006 to 2017 on spot market trade flows, spot prices, shipping costs and seller capacities, I estimate a structural model of LNG trade and pricing that incorporates spatial differentiation, capacity constraints and trade frictions and flexibly nests different models of seller market power. I find that seller decisions are consistent with a Cournot model and unlikely to be generated by a competitive model. The total deadweight loss from market power is estimated to be USD 12 billion, or about 4.5% of total revenue. I find that market power plays a key role in exacerbating inter-regional price differentials.
 </details>
@@ -76,7 +76,7 @@ with Panle Barwick, Hyuk-soo Kwon, Binglin Wang. ***American Economic Associatio
 with Panle Jia Barwick, Hyuk-soo Kwon and Shanjun Li.
 
 <details>
-<summary>Read abstract:</summary>
+<summary>Abstract:</summary>
 The global battery industry has achieved significant cost savings: electric vehicle (EV) battery costs have dropped by more than 90% over the past decade. This study assesses the extent to which this sharp decline in lithium-ion battery prices is attributable to learning-by-doing, and quantifies the impact of government policies (subsidies and local protection policies) on learning. Our analysis is based on a rich dataset consisting of 1) model-level sales, prices, and attributes of EVs and 2) battery suppliers and characteristics, for 13 countries from 2013 to 2020, that together account for over 95% of global EV sales. We estimate a structural model of the global EV industry, accounting for consumer vehicle choices, EV makers' pricing decisions, and bilateral bargaining between EV manufacturers and battery suppliers over battery prices. We recover the model-implied battery costs and evaluate how battery costs change with the accumulated production experience of battery suppliers, finding that learning-by-doing explains a substantial portion of the observed battery cost reductions. Lastly, we use the estimated model to examine the strategies of the US and China to protect their domestic battery industries: both countries require automakers to use domestically produced batteries to receive EV subsidies. We simulate equilibrium outcomes without such restrictions to evaluate the impact of local protectionism on cost-saving innovations in the global battery industry.
 </details>
 
@@ -84,7 +84,7 @@ The global battery industry has achieved significant cost savings: electric vehi
 with Nicholas Vreugdenhil and Maria Osipenko.
 
 <details>
-<summary>Read abstract:</summary>
+<summary>Abstract:</summary>
 This paper investigates how endogenous rigidities inhibit efficient physical capital reallocation. We focus on the role of contract duration - a classic example of an adjustment rigidity. We argue that when agents choose to sign longer contracts in booms when asset markets are thin, they generate a contracting externality which further reduces available capacity and amplifies market thinness. This causes equilibrium contracts to be inefficiently long in booms and inhibits the adjustment of these markets to productivity shocks. We show evidence for these mechanisms in the market for containership leasing contracts. We provide a framework that captures the details of the market and illustrates the tradeoffs conceptually. Overall, the results have implications for policies in this industry like counter-cyclical subsidies, as well as the fragility of the supply-chain to shocks.
 </details>
 
@@ -93,7 +93,7 @@ This paper investigates how endogenous rigidities inhibit efficient physical cap
 with Deyu Rao
 
 <details>
-<summary>Read abstract:</summary>
+<summary>Abstract:</summary>
 The cost of congestion is a key input in the design of transportation policy. Existing estimates of the social cost of traffic congestion account for the value of travel time, increased air pollution and accidents, and the impact on subjective well-being. We highlight an important additional cost: congestion disrupts economic activities. Consumers who cancel or postpone their spending plans on congested days incur a cost from not being able to engage in consumption at their preferred time. This paper investigates how traffic congestion affects consumption, focusing on Beijing in 2014. Using high-frequency credit and debit card consumption and traffic congestion data, we show that a 10% increase in travel time leads to a 2.4% decrease in consumption on the same day. We find little evidence to suggest that consumers substitute consumption over time.
 </details>
 
