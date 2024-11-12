@@ -20,7 +20,7 @@ In many capital-intensive markets, sellers sign long-term contracts with buyers 
 
 
 ### [Industrial Policy Implementation: Empirical Evidence from China's Shipbuilding Industry](https://www.dropbox.com/scl/fi/5idx4rdq017spabs3nz1v/Yr23_ChinaShipyard_Dec05.pdf?rlkey=8h1dnfhc8quodmu46m7i936vu&raw=1 "Industrial Policy Implementation: Empirical Evidence from China's Shipbuilding Industry") 
-with Panle Jia Barwick and Myrto Kalouptsidi, 2021. NBER Working Paper No. 26075. Accepted at ***Review of Economic Studies***. 
+with Panle Jia Barwick and Myrto Kalouptsidi, 2023. Accepted at ***Review of Economic Studies***. 
 
 <details>
 <summary><em>Abstract:</em></summary>
@@ -35,8 +35,16 @@ with Lucy Xiaolu Wang, 2023. R&R at ***Journal of Health Economics***.
 International procurement institutions have played an important role in drug supply. This paper studies price, delivery, and shipment time of essential drugs supplied in 106 developing countries from 2007-2017 across four procurement institution types. We find that pooled procurement institutions lower prices: pooling internationally is most effective for small buyers and more concentrated markets, and pooling within-country is most effective for large buyers and less concentrated markets. Pooling can reduce delays, but at the cost of longer anticipated shipment times. Finally, pooled procurement is more effective for older generation drugs, compared to IP licensing institutions that focus on newer, patented drugs. We corroborate the findings using multiple identification strategies, including an instrumental variable strategy as well as the Altonji-Elder-Taber-Oster method for selection on unobservables. Our results suggest that the optimal mixture of procurement institutions depends on the trade-off between costs and urgency of need, with pooled international procurement institutions particularly valuable when countries can plan well ahead of time.
 </details>
 
+### [Endogenous Rigidities and Capital Misallocation: Evidence from Containerships](https://www.dropbox.com/scl/fi/r1c5y2933d58a0pqtf307/gvz_containership.pdf?rlkey=sntipx9tlfgjmtitglfdwip3j&st=qwyc29dc&raw=1 "Endogenous Rigidities and Capital Misallocation: Evidence from Containerships")
+with Maria Garcia-Osipenko and Nicholas Vreugdenhil, 2024.
+
+<details>
+<summary><em>Abstract:</em></summary>
+We investigate how endogenous rigidities inhibit efficient physical capital reallocation. We focus on the role of contract duration - a classic example of an adjustment rigidity. We argue that when agents choose to sign longer contracts in booms when asset markets are thin, they generate a contracting externality which further reduces available capacity and amplifies market thinness. This causes equilibrium contracts to be inefficiently long in booms and impedes the adjustment of these markets to shocks. We develop an equilibrium dynamic matching framework with booms and busts where agents search and choose how long to match for. We apply the framework to the market for containership leasing contracts, an important part of the supply chain. We (i) find substantial misallocation from the contracting externality, particularly in the transition after an aggregate shock (ii) quantify implications for the billions of dollars spent on industrial policy in the industry.
+</details>
+
 ### [Industrial Policies and Innovation: Evidence from the Global Automobile Industry](https://panlebarwick.github.io/papers/Yr24_Auto_IP_Patent.pdf) 
-with Panle Jia Barwick, Hyuk-soo Kwon, Shanjun Li, and Yucheng Wang. 
+with Panle Jia Barwick, Hyuk-soo Kwon, Shanjun Li, and Yucheng Wang, 2024.
 
 <details>
 <summary><em>Abstract:</em></summary>
@@ -80,13 +88,7 @@ with Panle Jia Barwick, Hyuk-soo Kwon and Shanjun Li.
 The global battery industry has achieved significant cost savings: electric vehicle (EV) battery costs have dropped by more than 90% over the past decade. This study assesses the extent to which this sharp decline in lithium-ion battery prices is attributable to learning-by-doing, and quantifies the impact of government policies (subsidies and local protection policies) on learning. Our analysis is based on a rich dataset consisting of 1) model-level sales, prices, and attributes of EVs and 2) battery suppliers and characteristics, for 13 countries from 2013 to 2020, that together account for over 95% of global EV sales. We estimate a structural model of the global EV industry, accounting for consumer vehicle choices, EV makers' pricing decisions, and bilateral bargaining between EV manufacturers and battery suppliers over battery prices. We recover the model-implied battery costs and evaluate how battery costs change with the accumulated production experience of battery suppliers, finding that learning-by-doing explains a substantial portion of the observed battery cost reductions. Lastly, we use the estimated model to examine the strategies of the US and China to protect their domestic battery industries: both countries require automakers to use domestically produced batteries to receive EV subsidies. We simulate equilibrium outcomes without such restrictions to evaluate the impact of local protectionism on cost-saving innovations in the global battery industry.
 </details>
 
-### Booms, Busts, and Endogeneous Rigidities: Evidence from Containerships
-with Nicholas Vreugdenhil and Maria Osipenko.
 
-<details>
-<summary><em>Abstract:</em></summary>
-This paper investigates how endogenous rigidities inhibit efficient physical capital reallocation. We focus on the role of contract duration - a classic example of an adjustment rigidity. We argue that when agents choose to sign longer contracts in booms when asset markets are thin, they generate a contracting externality which further reduces available capacity and amplifies market thinness. This causes equilibrium contracts to be inefficiently long in booms and inhibits the adjustment of these markets to productivity shocks. We show evidence for these mechanisms in the market for containership leasing contracts. We provide a framework that captures the details of the market and illustrates the tradeoffs conceptually. Overall, the results have implications for policies in this industry like counter-cyclical subsidies, as well as the fragility of the supply-chain to shocks.
-</details>
 
 
 ### Traffic Congestion and Consumer Spending
