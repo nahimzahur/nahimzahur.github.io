@@ -7,6 +7,8 @@ author_profile: true
 
 ## Working Papers
 
+
+
 ### [Long-term Contracts and Efficiency in the Liquefied Natural Gas Industry](https://www.dropbox.com/s/njxs3mfdjroyhq6/NahimZahur_LNG_Contracts.pdf?raw=1 "Long-term Contracts and Efficiency in the Liquefied Natural Gas Industry")
 
 [Supplementary Online Appendix](https://www.dropbox.com/s/qmv6qbakepwjek8/NahimZahur_LNG_Contracts_2022_Supplementary_Material.pdf?raw=1 "Supplementary Online Appendix")
@@ -15,9 +17,6 @@ author_profile: true
 <summary><em>Abstract:</em></summary>
 In many capital-intensive markets, sellers sign long-term contracts with buyers before committing to sunk cost investments. Ex-ante contracts mitigate the risk of under-investment arising from ex-post bargaining. However, contractual rigidities reduce the ability of firms to respond flexibly to demand shocks. This paper provides an empirical analysis of this trade-off, focusing on the liquefied natural gas (LNG) industry, where long-term contracts account for over 70% of trade. I develop a model of contracting, investment and spot trade that incorporates bargaining frictions and contractual rigidities. I structurally estimate this model using a rich dataset of the LNG industry, employing a novel estimation strategy that utilizes the timing of contracting and investment decisions to infer bargaining power. I find that without long-term contracts, sellers would decrease investment by 27%, but allocative efficiency would significantly improve. Negative contracting externalities lead to inefficient over-use of long-term contracts in equilibrium. Policies aimed at eliminating contractual rigidities reduce investment by 16%, but raise welfare by 9%.
 </details>
-
-
-
 
 ### [Industrial Policy Implementation: Empirical Evidence from China's Shipbuilding Industry](https://www.dropbox.com/scl/fi/5idx4rdq017spabs3nz1v/Yr23_ChinaShipyard_Dec05.pdf?rlkey=8h1dnfhc8quodmu46m7i936vu&raw=1 "Industrial Policy Implementation: Empirical Evidence from China's Shipbuilding Industry") 
 with Panle Jia Barwick and Myrto Kalouptsidi, 2023. Accepted at ***Review of Economic Studies***. 
@@ -35,22 +34,33 @@ with Lucy Xiaolu Wang, 2023. R&R at ***Journal of Health Economics***.
 International procurement institutions have played an important role in drug supply. This paper studies price, delivery, and shipment time of essential drugs supplied in 106 developing countries from 2007-2017 across four procurement institution types. We find that pooled procurement institutions lower prices: pooling internationally is most effective for small buyers and more concentrated markets, and pooling within-country is most effective for large buyers and less concentrated markets. Pooling can reduce delays, but at the cost of longer anticipated shipment times. Finally, pooled procurement is more effective for older generation drugs, compared to IP licensing institutions that focus on newer, patented drugs. We corroborate the findings using multiple identification strategies, including an instrumental variable strategy as well as the Altonji-Elder-Taber-Oster method for selection on unobservables. Our results suggest that the optimal mixture of procurement institutions depends on the trade-off between costs and urgency of need, with pooled international procurement institutions particularly valuable when countries can plan well ahead of time.
 </details>
 
-### [Endogenous Rigidities and Capital Misallocation: Evidence from Containerships](https://www.dropbox.com/scl/fi/r1c5y2933d58a0pqtf307/gvz_containership.pdf?rlkey=sntipx9tlfgjmtitglfdwip3j&st=qwyc29dc&raw=1 "Endogenous Rigidities and Capital Misallocation: Evidence from Containerships")
-with Maria Garcia-Osipenko and Nicholas Vreugdenhil, 2024.
-
-<details>
-<summary><em>Abstract:</em></summary>
-We investigate how endogenous rigidities inhibit efficient physical capital reallocation. We focus on the role of contract duration - a classic example of an adjustment rigidity. We argue that when agents choose to sign longer contracts in booms when asset markets are thin, they generate a contracting externality which further reduces available capacity and amplifies market thinness. This causes equilibrium contracts to be inefficiently long in booms and impedes the adjustment of these markets to shocks. We develop an equilibrium dynamic matching framework with booms and busts where agents search and choose how long to match for. We apply the framework to the market for containership leasing contracts, an important part of the supply chain. We (i) find substantial misallocation from the contracting externality, particularly in the transition after an aggregate shock (ii) quantify implications for the billions of dollars spent on industrial policy in the industry.
-</details>
-
 ### [Industrial Policies and Innovation: Evidence from the Global Automobile Industry](https://panlebarwick.github.io/papers/Yr24_Auto_IP_Patent.pdf) 
-with Panle Jia Barwick, Hyuk-soo Kwon, Shanjun Li, and Yucheng Wang, 2024.
+with Panle Jia Barwick, Hyuk-soo Kwon, Shanjun Li, and Yucheng Wang, 2024. R&R at ***International Journal of Industrial Organization***.
 
 <details>
 <summary><em>Abstract:</em></summary>
 This paper examines the impact of industrial policies (IPs) on innovation in the global
 automobile industry. We compile the first comprehensive dataset linking global IPs with
 patent data related to the auto industry from 2008 to 2023. We document a major shift in policy focus: by 2022, nearly half of all IPs targeted electric vehicles (EV)-related sectors, up from almost none in 2008. In the meantime, there has been a clear technological transition from internal combustion engine (GV) technologies to EV innovations. Our analysis finds a positive relationship between policy support and innovation activity. At the country level, a one-standard-deviation increase in five-year cumulative EV-targeted IPs is associated with a four-percent rise in new EV patent applications. Firm-level analyses (using OLS, IV, and PPML) indicate that a ten-percent increase in EV financial incentives received by automakers and EV battery producers leads to a similar four-percent increase in EV innovations. We confirm the importance of path dependence in the direction of technology change in the automobile industry but find no evidence that EV-targeted IPs stimulate innovation in GV technologies.
+</details>
+
+### [Endogenous Rigidities and Capital Misallocation: Evidence from Containerships](https://www.dropbox.com/scl/fi/qmzrowe7213w8h0mr5qn3/20250111_gvz_containerships.pdf?rlkey=0hod4t4obn6p4zq1hp90lou1n&raw=1 "Endogenous Rigidities and Capital Misallocation: Evidence from Containerships")
+with Maria Garcia-Osipenko and Nicholas Vreugdenhil, 2025.
+
+<details>
+<summary><em>Abstract:</em></summary>
+We investigate how endogenous rigidities inhibit efficient physical capital reallocation. We focus on the role of contract duration - a classic example of an adjustment rigidity. We argue that when agents choose to sign longer contracts in booms when asset markets are thin, they generate a contracting externality which further reduces available capacity and amplifies market thinness. This causes equilibrium contracts to be inefficiently long in booms and impedes the adjustment of these markets to shocks. We develop an equilibrium dynamic matching framework with booms and busts, where agents search and choose for how long to match. We apply the framework to the market for containership leasing contracts, an important part of the supply chain. We quantify misallocation in the decentralized equilibrium and find it is particularly substantial in the transition after an aggregate shock. We also quantify implications for the significant resources devoted to industrial policy in this setting.
+</details>
+
+### [Drive Down the Cost: Learning by Doing and Government Policy in the Electric Vehicle Battery Industry]( https://www.dropbox.com/scl/fi/ba8msdbvxyiy309ayyn3g/LBD_BKLZ_2025.pdf?rlkey=gehfsgvdgjfxnjurjnrjq02xy&raw=1 "Drive Down the Cost: Learning by Doing and Government Policy in the Electric Vehicle Battery Industry")
+with Panle Jia Barwick, Hyuk-soo Kwon and Shanjun Li, 2025
+
+<details>
+<summary><em>Abstract:</em></summary>
+Electric vehicle (EV) battery costs have declined by over 90% in the past decade. This study investigates the role of learning-by-doing (LBD) in driving this reduction and its interaction with two major government policies – consumer EV subsidies and local content requirements. Leveraging rich data on EV models and battery suppliers, we develop and estimate a structural model of the global EV industry that incorporates heterogeneous consumer choices and strategic pricing behaviors of EV producers and battery suppliers. The model allows us to recover battery costs for each EV model and quantify the extent of LBD in battery production. The learning rate is estimated to be 7.5% during our sample period after controlling for industry technological progress, economies of scale, input costs, and EV assembly experience. LBD magnified the effectiveness of consumer EV subsidies by several folds and generated complementarity
+among subsidies across countries. Upstream battery suppliers capture a small fraction of the benefits brought by LBD to downstream EV producers and consumers, and consumer
+EV subsidies improved social welfare by accelerating LBD and reducing battery costs.
+China’s local content requirement helped domestic suppliers gain a competitive advantage at the expense of consumers and foreign suppliers, but its domestic welfare implications would shift from positive to negative if implemented five years later.
 </details>
 
 ### [Market Power and Spatial Price Discrimination in the Liquefied Natural Gas Industry](https://www.dropbox.com/s/6cisjyn9v9xzwyx/NahimZahur_LNG_MarketPower_Draft_2023.pdf?raw=1 "Market Power and Spatial Price Discrimination in the Liquefied Natural Gas Industry")
@@ -80,13 +90,7 @@ with Panle Barwick, Hyuk-soo Kwon, Binglin Wang. ***American Economic Associatio
 
 ## Works in Progress
 
-### Drive Down the Cost: Learning by Doing and Government Policy in the Electric Vehicle Battery Industry
-with Panle Jia Barwick, Hyuk-soo Kwon and Shanjun Li.
 
-<details>
-<summary><em>Abstract:</em></summary>
-The global battery industry has achieved significant cost savings: electric vehicle (EV) battery costs have dropped by more than 90% over the past decade. This study assesses the extent to which this sharp decline in lithium-ion battery prices is attributable to learning-by-doing, and quantifies the impact of government policies (subsidies and local protection policies) on learning. Our analysis is based on a rich dataset consisting of 1) model-level sales, prices, and attributes of EVs and 2) battery suppliers and characteristics, for 13 countries from 2013 to 2020, that together account for over 95% of global EV sales. We estimate a structural model of the global EV industry, accounting for consumer vehicle choices, EV makers' pricing decisions, and bilateral bargaining between EV manufacturers and battery suppliers over battery prices. We recover the model-implied battery costs and evaluate how battery costs change with the accumulated production experience of battery suppliers, finding that learning-by-doing explains a substantial portion of the observed battery cost reductions. Lastly, we use the estimated model to examine the strategies of the US and China to protect their domestic battery industries: both countries require automakers to use domestically produced batteries to receive EV subsidies. We simulate equilibrium outcomes without such restrictions to evaluate the impact of local protectionism on cost-saving innovations in the global battery industry.
-</details>
 
 
 
