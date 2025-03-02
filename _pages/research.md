@@ -18,14 +18,6 @@ author_profile: true
 In many capital-intensive markets, sellers sign long-term contracts with buyers before committing to sunk cost investments. Ex-ante contracts mitigate the risk of under-investment arising from ex-post bargaining. However, contractual rigidities reduce the ability of firms to respond flexibly to demand shocks. This paper provides an empirical analysis of this trade-off, focusing on the liquefied natural gas (LNG) industry, where long-term contracts account for over 70% of trade. I develop a model of contracting, investment and spot trade that incorporates bargaining frictions and contractual rigidities. I structurally estimate this model using a rich dataset of the LNG industry, employing a novel estimation strategy that utilizes the timing of contracting and investment decisions to infer bargaining power. I find that without long-term contracts, sellers would decrease investment by 27%, but allocative efficiency would significantly improve. Negative contracting externalities lead to inefficient over-use of long-term contracts in equilibrium. Policies aimed at eliminating contractual rigidities reduce investment by 16%, but raise welfare by 9%.
 </details>
 
-### [Industrial Policy Implementation: Empirical Evidence from China's Shipbuilding Industry](https://www.dropbox.com/scl/fi/5idx4rdq017spabs3nz1v/Yr23_ChinaShipyard_Dec05.pdf?rlkey=8h1dnfhc8quodmu46m7i936vu&raw=1 "Industrial Policy Implementation: Empirical Evidence from China's Shipbuilding Industry") 
-with Panle Jia Barwick and Myrto Kalouptsidi, 2023. Accepted at ***Review of Economic Studies***. 
-
-<details>
-<summary><em>Abstract:</em></summary>
-Industrial policies are widely used across the world. In practice, designing and implementing these policies is a complicated task. In this paper, we assess the long-term performance of different industrial policy instruments, which include production subsidies, investment subsidies, entry subsidies, and consolidation policies. To do so, we examine a recent industrial policy in China aiming to propel the country’s shipbuilding industry to the largest globally. Using firm-level data and a dynamic model of firm entry, exit, investment, and production, we find that (i) the policy boosted China’s domestic investment, entry, and international market share dramatically, but delivered low returns and led to fragmentation, idle capacity, as well as depressed world ship prices; (ii) the effectiveness of different policy instruments is mixed: production and investment subsidies can be justified by market share considerations, while entry subsidies are wasteful; (iii) counter-cyclical policies and firm-targeting can substantially reduce distortions. Our results highlight the critical role of firm heterogeneity, business cycles and firms’ cost structure in policy design.
-</details>
-
 ### [Procurement Institutions and Essential Drug Supply in Low and Middle-Income Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3926761 "Procurement Institutions and Essential Drug Supply in Low and Middle-Income Countries")
 with Lucy Xiaolu Wang, 2023. Conditionally accepted at ***Journal of Health Economics***.  
 
@@ -74,17 +66,20 @@ from 2006 to 2017 on spot market trade flows, spot prices, shipping costs and se
 
 ## Publications
 
+### [Industrial Policy Implementation: Empirical Evidence from China's Shipbuilding Industry](https://www.dropbox.com/scl/fi/5idx4rdq017spabs3nz1v/Yr23_ChinaShipyard_Dec05.pdf?rlkey=8h1dnfhc8quodmu46m7i936vu&raw=1 "Industrial Policy Implementation: Empirical Evidence from China's Shipbuilding Industry") 
+with Panle Jia Barwick and Myrto Kalouptsidi, 2025. Forthcoming at ***Review of Economic Studies***. 
+
 ### [The Healthcare Cost of Air Pollution: Evidence from the World's Largest Payment Network](https://www.dropbox.com/s/mtkp3esns9m724z/BLRZ_2022_Pollution_Health_China.pdf?raw=1 "The Healthcare Cost of Air Pollution: Evidence from the World's Largest Payment Network")
 with Panle Jia Barwick, Shanjun Li and Deyu Rao, 2024. Forthcoming at ***Review of Economics and Statistics***. [Link](https://doi.org/10.1162/rest_a_01430 "Link"). 
 
 ### [Industrial Policy: Lessons from Shipbuilding](https://panlebarwick.github.io/papers/Yr24_JEP_IndPolicy.pdf "Industrial Policy: Lessons from Shipbuilding")
-with Myrto Kalouptsidi and Panle Jia Barwick. Forthcoming at ***Journal of Economic Perspectives***. 
+with Myrto Kalouptsidi and Panle Jia Barwick, 2024. ***Journal of Economic Perspectives*** 38(4): 55 - 80. [Link](https://www.aeaweb.org/articles?id=10.1257/jep.38.4.55)
 
 ### Analysis of the optimal policy for managing strategic petroleum reserves under long-term uncertainty: The ASEAN case
-with Fernando S. Oliveira and Fulan Wu. ***Computers & Industrial Engineering*** 175 (2023): 108834. [Link](https://doi.org/10.1016/j.cie.2022.108834 "Link"). 
+with Fernando S. Oliveira and Fulan Wu, 2023. ***Computers & Industrial Engineering*** 175: 108834. [Link](https://doi.org/10.1016/j.cie.2022.108834 "Link"). 
  
 ### Pass-Through of Electric Vehicle Subsidies: A Global Analysis
-with Panle Barwick, Hyuk-soo Kwon, Binglin Wang. ***American Economic Association: Papers & Proceedings*** 113 (2023): 323-28. [Link](https://www.aeaweb.org/articles?id=10.1257/pandp.20231064 "Link"). [WP](https://drive.google.com/file/d/1WgrsGhbKWsrahLVRH08B1p4P7cxCyfsB/view "WP") 
+with Panle Barwick, Hyuk-soo Kwon, Binglin Wang, 2023. ***American Economic Association: Papers & Proceedings*** 113: 323-28. [Link](https://www.aeaweb.org/articles?id=10.1257/pandp.20231064 "Link"). [WP](https://drive.google.com/file/d/1WgrsGhbKWsrahLVRH08B1p4P7cxCyfsB/view "WP") 
 
 
 
