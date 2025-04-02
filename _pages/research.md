@@ -19,7 +19,7 @@ In many capital-intensive markets, sellers sign long-term contracts with buyers 
 </details>
 
 ### [Procurement Institutions and Essential Drug Supply in Low and Middle-Income Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3926761 "Procurement Institutions and Essential Drug Supply in Low and Middle-Income Countries")
-with Lucy Xiaolu Wang, 2023. Conditionally accepted at ***Journal of Health Economics***.  
+with Lucy Xiaolu Wang, 2023. Accepted at ***Journal of Health Economics***.  
 
 <details>
 <summary><em>Abstract:</em></summary>
