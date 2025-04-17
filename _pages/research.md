@@ -59,7 +59,7 @@ from 2006 to 2017 on spot market trade flows, spot prices, shipping costs and se
 ## Publications
 
 ### [Industrial Policy Implementation: Empirical Evidence from China's Shipbuilding Industry](https://www.dropbox.com/scl/fi/5idx4rdq017spabs3nz1v/Yr23_ChinaShipyard_Dec05.pdf?rlkey=8h1dnfhc8quodmu46m7i936vu&raw=1 "Industrial Policy Implementation: Empirical Evidence from China's Shipbuilding Industry") 
-with Panle Jia Barwick and Myrto Kalouptsidi, 2025. Forthcoming at ***Review of Economic Studies***. 
+with Panle Jia Barwick and Myrto Kalouptsidi, 2025. ***Review of Economic Studies***. [Link](https://doi.org/10.1093/restud/rdaf011 "Link").    
 
 ### [Procurement Institutions and Essential Drug Supply in Low and Middle-Income Countries](https://doi.org/10.1016/j.jhealeco.2025.102996 "Procurement Institutions and Essential Drug Supply in Low and Middle-Income Countries")
 with Lucy Xiaolu Wang, 2025. ***Journal of Health Economics*** 101: 102996. [Link](https://doi.org/10.1016/j.jhealeco.2025.102996 "Link").   
