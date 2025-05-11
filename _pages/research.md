@@ -10,8 +10,8 @@ author_profile: true
 
 
 ### [Long-term Contracts and Efficiency in the Liquefied Natural Gas Industry](https://www.dropbox.com/s/njxs3mfdjroyhq6/NahimZahur_LNG_Contracts.pdf?raw=1 "Long-term Contracts and Efficiency in the Liquefied Natural Gas Industry")
-
-[Supplementary Online Appendix](https://www.dropbox.com/scl/fi/p4ilu40yeopv5c9ftyouy/Zahur_2025May_LNGContracts_Supplementary_Material.pdf?rlkey=syfyvlwcsn741s2kugnovhmb7&raw=1 "Supplementary Online Appendix")
+2025. *(new version!!)*
+[Supplementary Appendix](https://www.dropbox.com/scl/fi/p4ilu40yeopv5c9ftyouy/Zahur_2025May_LNGContracts_Supplementary_Material.pdf?rlkey=syfyvlwcsn741s2kugnovhmb7&raw=1 "Supplementary Appendix")
 
 <details>
 <summary><em>Abstract:</em></summary>
