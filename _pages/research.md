@@ -10,7 +10,7 @@ author_profile: true
 
 
 ### [Long-term Contracts and Efficiency in the Liquefied Natural Gas Industry](https://www.dropbox.com/s/njxs3mfdjroyhq6/NahimZahur_LNG_Contracts.pdf?raw=1 "Long-term Contracts and Efficiency in the Liquefied Natural Gas Industry")
-
+Working Paper, 2025 (*newly updated!*)
 [Supplementary Appendix](https://www.dropbox.com/scl/fi/p4ilu40yeopv5c9ftyouy/Zahur_2025May_LNGContracts_Supplementary_Material.pdf?rlkey=syfyvlwcsn741s2kugnovhmb7&raw=1 "Supplementary Appendix")
 
 <details>
@@ -19,15 +19,6 @@ In many capital-intensive markets, sellers sign long-term contracts with buyers 
 LNG industry, employing a novel estimation strategy that utilizes the timing of contracting and investment decisions to infer bargaining power. I find that without long-term contracts, sellers would significantly decrease investment, but allocative efficiency would improve. Policies aimed at eliminating contractual rigidities reduce investment by 30%, but raise welfare by 21%, with the industry becoming more nimble in responding to demand fluctuations.
 </details>
 
-### [Industrial Policies and Innovation: Evidence from the Global Automobile Industry](https://panlebarwick.github.io/papers/Yr24_Auto_IP_Patent.pdf) 
-with Panle Jia Barwick, Hyuk-soo Kwon, Shanjun Li, and Yucheng Wang, 2024. R&R at ***International Journal of Industrial Organization***.
-
-<details>
-<summary><em>Abstract:</em></summary>
-This paper examines the impact of industrial policies (IPs) on innovation in the global
-automobile industry. We compile the first comprehensive dataset linking global IPs with
-patent data related to the auto industry from 2008 to 2023. We document a major shift in policy focus: by 2022, nearly half of all IPs targeted electric vehicles (EV)-related sectors, up from almost none in 2008. In the meantime, there has been a clear technological transition from internal combustion engine (GV) technologies to EV innovations. Our analysis finds a positive relationship between policy support and innovation activity. At the country level, a one-standard-deviation increase in five-year cumulative EV-targeted IPs is associated with a four-percent rise in new EV patent applications. Firm-level analyses (using OLS, IV, and PPML) indicate that a ten-percent increase in EV financial incentives received by automakers and EV battery producers leads to a similar four-percent increase in EV innovations. We confirm the importance of path dependence in the direction of technology change in the automobile industry but find no evidence that EV-targeted IPs stimulate innovation in GV technologies.
-</details>
 
 ### [Endogenous Rigidities and Capital Misallocation: Evidence from Containerships](https://www.dropbox.com/scl/fi/qmzrowe7213w8h0mr5qn3/20250111_gvz_containerships.pdf?rlkey=0hod4t4obn6p4zq1hp90lou1n&raw=1 "Endogenous Rigidities and Capital Misallocation: Evidence from Containerships")
 with Maria Garcia-Osipenko and Nicholas Vreugdenhil, 2025.
@@ -48,7 +39,19 @@ EV subsidies improved social welfare by accelerating LBD and reducing battery co
 China’s local content requirement helped domestic suppliers gain a competitive advantage at the expense of consumers and foreign suppliers, but its domestic welfare implications would shift from positive to negative if implemented five years later.
 </details>
 
+
+### [Industrial Policies and Innovation: Evidence from the Global Automobile Industry](https://panlebarwick.github.io/papers/Yr24_Auto_IP_Patent.pdf) 
+with Panle Jia Barwick, Hyuk-soo Kwon, Shanjun Li, and Yucheng Wang, 2024. R&R at ***International Journal of Industrial Organization***.
+
+<details>
+<summary><em>Abstract:</em></summary>
+This paper examines the impact of industrial policies (IPs) on innovation in the global
+automobile industry. We compile the first comprehensive dataset linking global IPs with
+patent data related to the auto industry from 2008 to 2023. We document a major shift in policy focus: by 2022, nearly half of all IPs targeted electric vehicles (EV)-related sectors, up from almost none in 2008. In the meantime, there has been a clear technological transition from internal combustion engine (GV) technologies to EV innovations. Our analysis finds a positive relationship between policy support and innovation activity. At the country level, a one-standard-deviation increase in five-year cumulative EV-targeted IPs is associated with a four-percent rise in new EV patent applications. Firm-level analyses (using OLS, IV, and PPML) indicate that a ten-percent increase in EV financial incentives received by automakers and EV battery producers leads to a similar four-percent increase in EV innovations. We confirm the importance of path dependence in the direction of technology change in the automobile industry but find no evidence that EV-targeted IPs stimulate innovation in GV technologies.
+</details>
+
 ### [Market Power and Spatial Price Discrimination in the Liquefied Natural Gas Industry](https://www.dropbox.com/s/6cisjyn9v9xzwyx/NahimZahur_LNG_MarketPower_Draft_2023.pdf?raw=1 "Market Power and Spatial Price Discrimination in the Liquefied Natural Gas Industry")
+In progress.
 
 <details>
 <summary><em>Abstract:</em></summary>
