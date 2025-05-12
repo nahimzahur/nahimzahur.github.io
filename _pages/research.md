@@ -19,7 +19,6 @@ In many capital-intensive markets, sellers sign long-term contracts with buyers 
 LNG industry, employing a novel estimation strategy that utilizes the timing of contracting and investment decisions to infer bargaining power. I find that without long-term contracts, sellers would significantly decrease investment, but allocative efficiency would improve. Policies aimed at eliminating contractual rigidities reduce investment by 30%, but raise welfare by 21%, with the industry becoming more nimble in responding to demand fluctuations.
 </details>
 
-
 ### [Endogenous Rigidities and Capital Misallocation: Evidence from Containerships](https://www.dropbox.com/scl/fi/qmzrowe7213w8h0mr5qn3/20250111_gvz_containerships.pdf?rlkey=0hod4t4obn6p4zq1hp90lou1n&raw=1 "Endogenous Rigidities and Capital Misallocation: Evidence from Containerships")
 with Maria Garcia-Osipenko and Nicholas Vreugdenhil, 2025.
 
