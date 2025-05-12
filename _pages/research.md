@@ -51,7 +51,7 @@ patent data related to the auto industry from 2008 to 2023. We document a major 
 </details>
 
 ### [Market Power and Spatial Price Discrimination in the Liquefied Natural Gas Industry](https://www.dropbox.com/s/6cisjyn9v9xzwyx/NahimZahur_LNG_MarketPower_Draft_2023.pdf?raw=1 "Market Power and Spatial Price Discrimination in the Liquefied Natural Gas Industry")
-In progress.
+Working Paper, 2023.
 
 <details>
 <summary><em>Abstract:</em></summary>
