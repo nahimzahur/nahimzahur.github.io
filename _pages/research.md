@@ -40,7 +40,7 @@ China’s local content requirement helped domestic suppliers gain a competitive
 
 
 ### [Industrial Policies and Innovation: Evidence from the Global Automobile Industry](https://panlebarwick.github.io/papers/Yr24_Auto_IP_Patent.pdf) 
-with Panle Jia Barwick, Hyuk-soo Kwon, Shanjun Li, and Yucheng Wang, 2024. R&R at ***International Journal of Industrial Organization***.
+with Panle Jia Barwick, Hyuk-soo Kwon, Shanjun Li, and Yucheng Wang, 2024. Conditionally accepted at ***International Journal of Industrial Organization***.
 
 <details>
 <summary><em>Abstract:</em></summary>
