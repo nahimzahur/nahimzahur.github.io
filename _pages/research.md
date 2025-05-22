@@ -73,11 +73,11 @@ with Panle Jia Barwick, Shanjun Li and Deyu Rao, 2024. ***Review of Economics an
 ### [Industrial Policy: Lessons from Shipbuilding](https://panlebarwick.github.io/papers/Yr24_JEP_IndPolicy.pdf "Industrial Policy: Lessons from Shipbuilding")
 with Myrto Kalouptsidi and Panle Jia Barwick, 2024. ***Journal of Economic Perspectives*** 38(4): 55 - 80. [Link](https://www.aeaweb.org/articles?id=10.1257/jep.38.4.55)
 
-### Analysis of the optimal policy for managing strategic petroleum reserves under long-term uncertainty: The ASEAN case
+### [Analysis of the optimal policy for managing strategic petroleum reserves under long-term uncertainty: The ASEAN case](https://doi.org/10.1016/j.cie.2022.108834 "Link")
 with Fernando S. Oliveira and Fulan Wu, 2023. ***Computers & Industrial Engineering*** 175: 108834. [Link](https://doi.org/10.1016/j.cie.2022.108834 "Link"). 
  
-### Pass-Through of Electric Vehicle Subsidies: A Global Analysis
-with Panle Barwick, Hyuk-soo Kwon, Binglin Wang, 2023. ***American Economic Association: Papers & Proceedings*** 113: 323-28. [Link](https://www.aeaweb.org/articles?id=10.1257/pandp.20231064 "Link"). [WP](https://drive.google.com/file/d/1WgrsGhbKWsrahLVRH08B1p4P7cxCyfsB/view "WP") 
+### [Pass-Through of Electric Vehicle Subsidies: A Global Analysis](https://drive.google.com/file/d/1WgrsGhbKWsrahLVRH08B1p4P7cxCyfsB/view)
+with Panle Barwick, Hyuk-soo Kwon, Binglin Wang, 2023. ***American Economic Association: Papers & Proceedings*** 113: 323-28. [Link](https://www.aeaweb.org/articles?id=10.1257/pandp.20231064 "Link").
 
 
 
