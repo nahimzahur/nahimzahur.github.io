@@ -28,7 +28,7 @@ We investigate how endogenous rigidities inhibit efficient physical capital real
 </details>
 
 ### [Drive Down the Cost: Learning by Doing and Government Policy in the Electric Vehicle Battery Industry]( https://www.dropbox.com/scl/fi/ba8msdbvxyiy309ayyn3g/LBD_BKLZ_2025.pdf?rlkey=gehfsgvdgjfxnjurjnrjq02xy&raw=1 "Drive Down the Cost: Learning by Doing and Government Policy in the Electric Vehicle Battery Industry")
-with Panle Jia Barwick, Hyuk-soo Kwon and Shanjun Li, 2025 (*newly updated!*)
+with Panle Jia Barwick, Hyuk-soo Kwon and Shanjun Li, 2025. R&R at ***American Economic Review***.
 
 <details>
 <summary><em>Abstract:</em></summary>
