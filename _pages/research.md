@@ -39,16 +39,6 @@ China’s local content requirement helped domestic suppliers gain a competitive
 </details>
 
 
-### [Industrial Policies and Innovation: Evidence from the Global Automobile Industry](https://panlebarwick.github.io/papers/Yr24_Auto_IP_Patent.pdf) 
-with Panle Jia Barwick, Hyuk-soo Kwon, Shanjun Li, and Yucheng Wang, 2024. Conditionally accepted at ***International Journal of Industrial Organization***.
-
-<details>
-<summary><em>Abstract:</em></summary>
-This paper examines the impact of industrial policies (IPs) on innovation in the global
-automobile industry. We compile the first comprehensive dataset linking global IPs with
-patent data related to the auto industry from 2008 to 2023. We document a major shift in policy focus: by 2022, nearly half of all IPs targeted electric vehicles (EV)-related sectors, up from almost none in 2008. In the meantime, there has been a clear technological transition from internal combustion engine (GV) technologies to EV innovations. Our analysis finds a positive relationship between policy support and innovation activity. At the country level, a one-standard-deviation increase in five-year cumulative EV-targeted IPs is associated with a four-percent rise in new EV patent applications. Firm-level analyses (using OLS, IV, and PPML) indicate that a ten-percent increase in EV financial incentives received by automakers and EV battery producers leads to a similar four-percent increase in EV innovations. We confirm the importance of path dependence in the direction of technology change in the automobile industry but find no evidence that EV-targeted IPs stimulate innovation in GV technologies.
-</details>
-
 ### [Market Power and Spatial Price Discrimination in the Liquefied Natural Gas Industry](https://www.dropbox.com/s/6cisjyn9v9xzwyx/NahimZahur_LNG_MarketPower_Draft_2023.pdf?raw=1 "Market Power and Spatial Price Discrimination in the Liquefied Natural Gas Industry")
 Working Paper, 2023.
 
@@ -60,6 +50,9 @@ from 2006 to 2017 on spot market trade flows, spot prices, shipping costs and se
 
 
 ## Publications
+
+### [Industrial Policies and Innovation: Evidence from the Global Automobile Industry](https://panlebarwick.github.io/papers/Yr24_Auto_IP_Patent.pdf "Industrial Policies and Innovation: Evidence from the Global Automobile Industry") 
+with Panle Jia Barwick, Hyuk-soo Kwon, Shanjun Li, and Yucheng Wang, 2026. ***International Journal of Industrial Organization***. 104: 103230. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167718725000967 "Link").
 
 ### [Industrial Policy Implementation: Empirical Evidence from China's Shipbuilding Industry](https://www.dropbox.com/scl/fi/5idx4rdq017spabs3nz1v/Yr23_ChinaShipyard_Dec05.pdf?rlkey=8h1dnfhc8quodmu46m7i936vu&raw=1 "Industrial Policy Implementation: Empirical Evidence from China's Shipbuilding Industry") 
 with Panle Jia Barwick and Myrto Kalouptsidi, 2025. ***Review of Economic Studies***. [Link](https://doi.org/10.1093/restud/rdaf011 "Link").    
