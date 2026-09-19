@@ -24,7 +24,7 @@ with Maria Garcia-Osipenko and Nicholas Vreugdenhil, 2025. R&R at ***Journal of 
 
 <details>
 <summary><em>Abstract:</em></summary>
-We investigate how endogenous rigidities inhibit physical capital reallocation. We focus on the role of contract duration -- a classic example of an adjustment rigidity. We argue that when agents sign longer contracts in booms when markets are thin, they generate a contracting externality which further amplifies thinness and impedes the adjustment of markets to shocks. We develop a dynamic spatial framework with booms and busts where agents search and choose match duration. Applying the framework to the containership leasing market, we find substantial misallocation from endogenous rigidities, particularly in the transition after a crash.
+We investigate how endogenous rigidities inhibit physical capital reallocation. We focus on the role of contract duration - a classic example of an adjustment rigidity. We argue that when agents sign longer contracts in booms when markets are thin, they generate a contracting externality which further amplifies thinness and impedes the adjustment of markets to shocks. We develop a dynamic spatial framework with booms and busts where agents search and choose match duration. Applying the framework to the containership leasing market, we find substantial misallocation from endogenous rigidities, particularly in the transition after a crash.
 </details>
 
 ### [Drive Down the Cost: Learning by Doing and Government Policy in the Electric Vehicle Battery Industry]( https://www.dropbox.com/scl/fi/ba8msdbvxyiy309ayyn3g/LBD_BKLZ_2025.pdf?rlkey=gehfsgvdgjfxnjurjnrjq02xy&raw=1 "Drive Down the Cost: Learning by Doing and Government Policy in the Electric Vehicle Battery Industry")
