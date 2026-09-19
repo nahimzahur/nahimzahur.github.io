@@ -20,7 +20,7 @@ LNG industry, employing a novel estimation strategy that utilizes the timing of 
 </details>
 
 ### [Endogenous Rigidities and Capital Misallocation: Evidence from Containerships](https://www.dropbox.com/scl/fi/ytpmteykoxg9ieai37k1x/20260823_gvz_containerships.pdf?rlkey=89lmgs6rgprsm1or2s4azd3km&raw=1 "Endogenous Rigidities and Capital Misallocation: Evidence from Containerships")
-with Maria Garcia-Osipenko and Nicholas Vreugdenhil, 2025. R&R at ***Journal of Political Economy***.
+with Maria Garcia-Osipenko and Nicholas Vreugdenhil, 2026. R&R at ***Journal of Political Economy***.
 
 <details>
 <summary><em>Abstract:</em></summary>
